@@ -55,7 +55,7 @@ Un vistazo rápido a los archivos que se encuentran para el miércoles 18 de nov
 
 ## Versionado 📌
 
-[HTML simple](https://elishitas.github.io/club_cp/web_html/).
+[HTML y CSS simple](https://elishitas.github.io/responsive-menu-cp/). Recorda jugar con el tamaño de tu pantalla para ver la magia!
 
 ## 🎓 Aprendiendo HTML y CSS
 
